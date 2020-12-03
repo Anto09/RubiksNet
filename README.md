@@ -42,7 +42,7 @@ conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 conda install scikit-learn
 
 # Clone this repo
-git clone https://github.com/stanfordvl/rubiksnet.git or git@github.com:Anto09/RubiksNet.git
+git clone https://github.com/stanfordvl/rubiksnet.git
 cd rubiksnet
 
 # Compiles our efficient CUDA-based RubiksShift operator under the hood
